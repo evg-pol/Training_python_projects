@@ -13,10 +13,9 @@ This repository is a collection of projects that primarily revolve around Python
 
 This portfolio demonstrates my journey in Python data analysis. It encompasses:
 
-- **Study Projects:** Projects designed to sharpen my skills in Python-based data analysis, covering various data manipulation, visualization, and statistical techniques. 
-These projects were  completed during my enrollment in the Data Scientist Professional Training Course at Practicum by Yandex (INO CPE “Yandex EdTech”). This rigorous training program has been instrumental in strengthening my practical expertise in data science.
+- **Training Projects:** Projects designed to sharpen my skills in Python-based data analysis, covering various data manipulation, visualization, and statistical techniques. These projects were  completed during my enrollment in the Data Scientist Professional Training Course at Practicum by Yandex. This training program has been instrumental in strengthening my practical expertise in data science.
 
-- **Real-World Projects:** These projects offered solutions to data challenges in business contexts, addressing specific tasks and objectives. 
+- **Real-World Research Projects:** These projects offered solutions to data challenges in business contexts, addressing specific tasks and objectives. 
 
 - **Pet Projects:** Personal data analysis experiments, reflecting my exploration of Python's capabilities in the realm of data analysis.
 
