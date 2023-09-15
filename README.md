@@ -7,4 +7,4 @@ Certificate of completion: [![Yandex Badge](https://img.shields.io/badge/yandex-
 | :---------------------- | :---------------------- | :---------------------- |
 | [Video-game sales analysis](game_sales) |The project utilizes historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation). The primary goal  is to aid in devising effective sales strategies for an online computer game store.| *pandas* *numpy* *matplotlib* *seaborn* |
 
-🔍 You'll find a variety of projects here, spanning from basic data manipulations and data visualization to more advanced statistical analyses and machine learning models.
+🔍 You find a variety of projects here, spanning from basic data manipulations and data visualization to more advanced statistical analyses and machine learning models.
