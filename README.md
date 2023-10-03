@@ -5,6 +5,7 @@ Certificate of completion: [![Yandex Badge](https://img.shields.io/badge/yandex-
 
 | Name of the project | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [ML for text analysis](text_analysis) |The project involves implementing a new feature in an online store where users can collaboratively edit and improve product descriptions, similar to wiki communities. The task at hand is to create a tool that detects and flags toxic comments for moderation.| *pandas* *nltk* *sklearn* *tf-idf* *lightgbm* *spacy* |
 | [Video-game sales analysis](game_sales) |The project utilizes historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation). The primary goal  is to aid in devising effective sales strategies for an online computer game store.| *pandas* *numpy* *matplotlib* *seaborn* *skipy* |
 
 🔍 You find a variety of projects here, spanning from basic data manipulations and data visualization to more advanced statistical analyses and machine learning models.
