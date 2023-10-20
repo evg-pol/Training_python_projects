@@ -24,3 +24,4 @@ The primary metric is ROC-AUC, and it should be higher than 0.85 on the test sam
 
 **Main findings**
 A basic statistical analysis was conducted, including data visualization and the construction of a correlation matrix.
+![Без названия](https://github.com/evg-pol/Training_python_projects/assets/141067147/a38dcd4d-efba-413a-8357-a1776e799bb2)
