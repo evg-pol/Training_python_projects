@@ -21,3 +21,6 @@ Build a model that predicts customer churn.
 **Project Metrics:**
 
 The primary metric is ROC-AUC, and it should be higher than 0.85 on the test sample.
+
+**Main findings**
+A basic statistical analysis was conducted, including data visualization and the construction of a correlation matrix.
