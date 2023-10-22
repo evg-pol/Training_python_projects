@@ -22,6 +22,20 @@ Build a model that predicts customer churn.
 
 The primary metric is ROC-AUC, and it should be higher than 0.85 on the test sample.
 
-**Main findings**
-A basic statistical analysis was conducted, including data visualization and the construction of a correlation matrix.
+**Main results**
+
+1. A basic statistical analysis was conducted, including data visualization and the construction of a correlation matrix.
+
 ![Без названия](https://github.com/evg-pol/Training_python_projects/assets/141067147/a38dcd4d-efba-413a-8357-a1776e799bb2)
+
+
+2. Three ML models were analysed: the Random Forest, LGBM, CatBoost. CatBoost demostrated the best results on the train sample
+ 
+<img width="375" alt="Снимок экрана 2023-10-20 в 6 16 27 PM" src="https://github.com/evg-pol/Training_python_projects/assets/141067147/6f7ae39a-215e-41ee-a4d9-cea91956f18f">
+
+
+3.  The most important features have been selected for the CatBoost model.
+    
+![Без названия (1)](https://github.com/evg-pol/Training_python_projects/assets/141067147/710ea28d-5090-4d3f-9dd4-a89d6b2f6062)
+  
+
