@@ -38,4 +38,6 @@ The primary metric is ROC-AUC, and it should be higher than 0.85 on the test sam
     
 ![Без названия (1)](https://github.com/evg-pol/Training_python_projects/assets/141067147/710ea28d-5090-4d3f-9dd4-a89d6b2f6062)
   
+4. The model with the selected features showed the better results
 
+<img width="475" alt="Снимок экрана 2023-10-24 в 6 09 52 PM" src="https://github.com/evg-pol/Training_python_projects/assets/141067147/159ee84c-6eab-4695-813d-c2ff875e54f9">
