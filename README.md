@@ -1,7 +1,7 @@
 # Training projects in Python
 This repository is a collection of projects that designed to sharpen my skills in Python-based data analysis, covering various data manipulation, visualization, and statistical techniques. These projects were  completed during my enrollment in the Data Scientist Professional Training Course at Practicum by Yandex. 
 
-Certificate of completion: [![Yandex Badge](https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white)](https://drive.google.com/file/d/1Sr-NKYmIHD4hJ8tKB9Xk0QuwR2tjg2JX/view?usp=sharing)
+Certificate of completion: [![Yandex Badge](https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white)](https://drive.google.com/file/d/18Dy2Q0KVYm8rf3EikZmo_l7aP2FNg_oW/view?usp=sharing)
 
 | Name of the project | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
